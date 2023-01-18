@@ -39,6 +39,7 @@
 		312ED8522975367400B27553 /* dfs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dfs.h; sourceTree = "<group>"; };
 		312ED8532975367400B27553 /* qipan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = qipan.cpp; sourceTree = "<group>"; };
 		312ED8622975796800B27553 /* help.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = help.txt; sourceTree = "<group>"; };
+		31898C3B2977BFCA00056B05 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		31A53D042976AC8200C5D053 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -57,6 +58,7 @@
 		312ED838297535CF00B27553 = {
 			isa = PBXGroup;
 			children = (
+				31898C3B2977BFCA00056B05 /* README.md */,
 				312ED843297535CF00B27553 /* WallChess */,
 				312ED842297535CF00B27553 /* Products */,
 				312ED85D2975474E00B27553 /* Frameworks */,
